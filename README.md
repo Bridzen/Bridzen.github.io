@@ -1,3 +1,3 @@
 # Bridzen.github.io
 
-https://Bridzen.github.io/bridzens9879/
+https://bridzen.github.io/
